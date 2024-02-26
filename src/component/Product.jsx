@@ -41,7 +41,7 @@ draggable
 pauseOnHover
 theme="dark"
 />
-      <div className="container w-4/5 text-center -z-10">
+      <div className="container mx-auto w-4/5 text-center -z-10">
         <div className="row mx-auto">
           { items.map((item) => (
             <>
